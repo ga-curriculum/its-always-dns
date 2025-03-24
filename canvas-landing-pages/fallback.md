@@ -15,7 +15,7 @@ In this module, you'll evaluate the critical vulnerabilities in foundational int
 | [Understanding DNS and BGP](../understanding-dns-and-bgp/README.md)                         | 5 min  | Understand DNS and BGP.                                   |
 | [The Fragility of Critical Protocols](../the-fragility-of-critical-protocols/README.md)     | 10 min | Leary why these critical protocols fail.                  |
 | [A Real-World Example of a DNS Failure](../a-real-world-example-of-a-dns-failure/README.md) | 10 min | Look at the Dyn case for a real world example.            |
-| [Strengthening Internet Protocol](../strengthening-internet-protocol/README.md)             | 5 min  | Learn how to mitigate this risk and review key takeaways. |
+| [Strengthening Internet Protocols](../strengthening-internet-protocols/README.md)           | 5 min  | Learn how to mitigate this risk and review key takeaways. |
 | **Total content**                                                                           | 30 min |                                                           |
 
 ## References
